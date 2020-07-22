@@ -1,0 +1,271 @@
+{
+    "pageNames": {
+        "home": "الرئيسية",
+        "settings": "الاعدادت"
+    },
+    "pages": {
+        "settings": {
+            "general": "عامة",
+            "language": "عربي"
+        },
+        "home": {
+            "label_times": "اي حاجه ياعم يارب："
+        }
+    },
+  "Key": "عربي",
+
+
+  "SideMenuPage": {
+    "sideBasket":   "سلة التسوق",
+    "sidePolitics": "الـسـيـاســـة والأمـــــان",
+    "sideContact" : "اتـــصــل بــنـــــا",
+    "sideAboutCompany": "عــن الشــركـــــة",
+    "changeLanguage": "اسـتـبــدال اللــغــــــة",
+    "LogOut" : "تـــســجـيـــل خـــروج",
+    "LogIn" : "تـــســجـيـــل دخـــــول",
+    "Myorder" : "طــلــبــاتـــــي"
+  },
+
+  "ContactUsPage": {
+    "title": "تواصل معنا",
+    "body": "ايضا تستطيع التواصل معنا عن طريق صفحات التواصل الاجتماعي",
+    "address": "العنوان : "
+  },
+  "PrivacyPolicyPage": {
+    "title": "السياسة الخاصة"
+  },
+
+
+  "WelcomePage": {
+    "title": "مرحبـــــــاً",
+    "SignUpButton": "إنشاء حساب جديد",
+    "SignInButton": "تسجيل الدخول"
+  },
+
+  "VerificationPage": {
+    "title": "تأكيد الهواية",
+    "body": "تم ارسال كود التفعيل",
+    "PhoneCode": "كود التفعيل تم",
+    "hint": "ادخل كود التفعيل"
+  },
+
+  "StorePage": {
+    "CategorySeeAllText": "شاهد الكل",
+    "StoreHeaderlocation": "للـوصــول الـيـنـــــــــا ",
+    "StoreHeaderSearchHint": "للبحث عن منتج معين"
+
+  },
+
+  "HomePage": {
+    "bottomNavigationMoor": "للمزيد",
+
+    "bottomNavigationStore": "المخزن",
+    "bottomNavigationCart": "سلتي",
+    "bottomNavigationOffers": "العروض",
+    "bottomNavigationFavourite": "المفضلة",
+    "bottomNavigationProfile": "الملف الشخصي"
+
+  },
+
+  "FavouritePage": {
+    "NoItemAdded": "لايوجد منتجات مضافة لعناصر المفضلة"
+  },
+  "MyBasketPage": {
+    "NoItemhasAdded": "السلة الخاصة بك مازالت فارغة"
+  },
+
+
+  "ProductWidgetPage": {
+    "ProductRateing": "قيم هذا المنتج",
+    "ProductComment": "اترك تعليق",
+    "ProductRateingText": "قيم"
+  },
+
+  "ProductDetailstPage": {
+    "title": "للرجوع الي الاقسام",
+    "ProductQuantity": "الكمية",
+    "AddToCartButton": "للاضافة الي السلة",
+    "SeeDetailsButton": "مشاهدة تفاصيل",
+    "AlertDialogText": "تأكيد اضافة المنتج الي السلة",
+    "AlertDialogCancelButton": "إلغاء",
+    "AlertDialogConfirmButton": "تأكيد"
+  },
+
+  "ProductProfiletPage": {
+    "tabAllRating": "تقييم الكل",
+    "tabAllMainInformation": "المعلومات الرئيسية",
+    "MainInfoPage": {
+      "ProductName": "اسم المنتج",
+      "ProductPrice": "السعر",
+      "ProductQuantity": "الكمية",
+      "ProductDescription": "الوصف للمنتج"
+    },
+    "AllRatingPage": {
+      "NoRatingText": "لايوجد تقييم لهذا المنتج حتي الان",
+      "NoCommentText": "لا تعليق حتي الان",
+      "thatNoRatingAlert": "ســـجــــل دخـــــول أولــاــ مــن فـــضـــلــــكــــ"
+    }
+  },
+
+  "PhoneNumberConfirmationPage": {
+    "SmsCode": "ادخل كود التفعيل",
+    "Done": "حسنـــــاً",
+    "LogoText": "Logo",
+    "PhoneAuthenticationText": "تأكيد الهوية",
+    "labelTextofNumberPhone": "من فضلك ادخل رقم تلفونك",
+    "registrationButton": "ارسال كود التفعيل",
+    "cardWidget": {
+      "phoneNumber": "رقم التلفون",
+      "registrationMessage": "كود التفعيل سوف يتم ارساله في رسالة قصيرة"
+    }
+  },
+
+  "ResetPasswordPage":{
+    "title": "إعلدة التعيين",
+    "ResetMessageText": "تم إرسال رابط إعادة تعيين كلمة المرور إلي ",
+    "ResetMessageDialogButton": "حسنـــــاً",
+    "ResetPasswordText": "إعادة تعيين كلمة المرور",
+    "ResetPasswordEmail": "البريد الإلكتروني",
+    "ResetMessageButton": "تعيين",
+    "ResetMessageReturnText": "الرجوع الي التسجيل مرة أخري"
+  },
+
+  "SignInPage":{
+    "DialogText": "هناك خطأ حدث",
+    "DialogButton": "حسنـــــاً",
+    "DialogTextValidate": "البريد الالكتروني او كلمة المرور فارغة",
+    "DialogEmailError": "البريد الإلكتروني لا يصلح",
+    "title": "مرحبــــــــــــاً",
+    "EmailHint": "اسم المستخدم",
+    "passwordHint": "كلمة المرور",
+    "DialogEmailAndPasswordValidate": "هناك خطأ في اسم البريد الإلكتروني او كلمة المرور , من فضلك حاول فيما بعد ",
+    "LogInButton": "تسجيل",
+    "ForgetPassword": "لا اتذكر كلمة المرور",
+    "ORText": "او",
+    "DonotHavaAccount": "لا تملك حساب ؟"
+  },
+
+  "SignUPPage":{
+    "InvalidusernameText": "اسم مستخدم خطــأ",
+    "InvalidemailText": "بريد الإلكتروني لا يصلح",
+    "InvalidPasswordText": "كلمة المرور قصيرة",
+    "InvalidusernameText": "اسم مستخدم خطــأ",
+
+    "usernamelabelText": "اسم المستخدم",
+    "emaillabelText": "البريد الإلكتروني",
+    "PasswordlabelText": "كلمة المرور",
+    "ConfirmPasswordValidate": "كلمتي المرور غير متطـأبقان",
+    "Confirmpassword": "تـأكيد كلمة المرور",
+    "LogInButton": "إنشاء حساب",
+
+    "haveAccount": "اتمتلك حساب ؟ الذهاب للتسجيل",
+    "DialogEmailAndPasswordValidate": "هنـأك خطأ في البريد الالكتروني او كلمة السر, حاول مرة أخري",
+
+    "PhoneNumber": "رقم التلفون",
+    "PhoneConfirmation": {
+      "ActivateAccount": "تفـعيــل الحســاب",
+      "EditNumber": "تعـديـل الرقــم",
+      "MessagesShortly": "انت الان استلمت رسالة تأكيد",
+      "CodeSent": "كود التفعـيل تم ارسالـه"
+    }
+
+  },
+  "WelcomePage": {
+    "title": "مرحبـــــاً",
+    "SignUpButton": "إنشــاء حساب",
+    "SignInButton": "تسجيل دخول"
+  },
+
+  "BasketPage": {
+    "NoItemText": "السلــة فارغـة",
+    "MakeOrderButton": "اطلب الان",
+    "minimumOrderLimit": "الـحد الادنـي لعمل طـلـب : 100 ر.س"
+
+  },
+
+
+
+
+
+  "PurchasePage": {
+    "title": "عملية الشراء",
+    "giftCobon": "كوبون الهدية الخاص بك",
+    "CobonHint": "  ادخل كوبون الخاص بك",
+    "CobonButton": "تفعيل",
+    "beforeCouponText": "قبل الكوبون",
+    "TotalSalaryText": "مجموع القيمة",
+    "AfterCobonText": "بعد الكوبون",
+    "DeliverToText": "يوصل إلي ",
+    "TotalText": "المجموع",
+    "addedTaxes": "متضماً ضريبة القيمة المضافة",
+    "ReviewYourOrderButton": "راجـــع طلبــاتــك",
+    "PurcharseButton": "شــــــراء",
+    "DialogTitle": "طلبــك",
+    "DialogQuantity": "الكميــة :  ",
+    "DialogButton": "غــلـــق "
+
+  },
+  "PuchaseLocationPage": {
+    "title": "المــــــوقـع",
+    "HomeText": "المنــزل",
+    "NameText": "الاســــم : ",
+    "AddressText": "العنــوان : ",
+    "PhoneText": "التلفــون : ",
+    "mapButton": "اضـف موقع التوصيل علي الخريطة",
+    "ContinueButton": "استمـرار",
+    "dailogForFirstTime": "يــجــب اخــتــيــار مـوقــعــك عـلـي الـخــريــطـــة لــاول مـــرة",
+    "dailogForSecondTime": "انـــت لـم تـخــتـــار مـوقـع جـديــد ؟\nطـــلـــبــك ســوف يـــصـــل إلـــي مـــوقــع خريــطــة اخــتــارتــه ســابــقــــا",
+    "DelivaryDateText": "تـاريـخ الـتـوصـيــل : ",
+    "DelivaryTimeText": "وقت الـتـوصـيــل:",
+    "DelivaryDateChoose": "يجب اخـتيـار تاريـخ التوصـيـل !",
+    "DelivaryTimeChoose": "يجب اخـتيـار وقـت التوصـيـل !",
+    "DelivaryTimeChooseFalse": "لا يـمـكنك اختيار هذة الفترة الان",
+    "DelivaryTimeChooseMaxFalse": "لا يـمـكنك اختيار هذة الفترة الان\nلقد وصـلـنا للـحـد الادنـي مـن الطلبات\nمن فضلك قـم باختـيار توقيت توصيل اَخـر",
+    "EgyptionNumberPhone": "خـدمـاتنـا غير متوفرة في مصر حاليــا"
+
+
+
+  },
+
+  "ConfirmReciptPage": {
+    "title": "تأكيد الطلب",
+    "OrderSummaryText": "ملخـص الطلب",
+    "SubTotalText": "المبلغ الاجمالي",
+    "DeliveryChargeText": "رسوم التوصيل",
+    "TotalText": "المجموع",
+    "ValueAddedTaxText": "ضريبة القيمة المضافة",
+    "ReviewYourOrderButton": "راجـــع طلبــاتــك",
+    "ConfirmButton": "تأكيد"
+  },
+  "MapPage": {
+    "DialogBody":
+    "الخـريطـة سوف تفتح علي موقع هاتفك الحالي \n اذا كنت تريد اختيار موقع جديد \n عليك التـحريك علي الخريطة واختيار   الموقع الجديد "
+
+  },
+
+  "ConfirmOrderPage": {
+    "followYourOrder": "تـــابـــع طـــلــبــك مـن هــنــا\nطـــلـــبــك فـــي مــرحـــلــــة الاستلام الان",
+    "DelivaryQrCodeButton": "كود تأكيد اتمام العملية",
+    "orderStatufrist": "تـــم الاستلام",
+    "orderStatusecond": "تــم الــشــحــن",
+    "orderStatuthird": "تم التوصيل",
+    "orderStatuDone": "تم التسليم",
+    "confirmOrderCard": {
+      "OrderSummaryText": "ملخـص الطلب",
+      "SubTotalText": "المبلغ الاجمالي",
+      "DeliveryFreeText": "قيمة التوصيل",
+      "TotalText": "المجموع",
+      "ValueAddedTaxText": "ضريبة القيمة المضافة"
+    }
+  },
+
+  "OrderQrCodePage": {
+    "title": "تأكيد اتمام العملية",
+    "QRImage": "تأكيد اتمام العملية بواسطة الصورة",
+    "QRCode": "تأكيد اتمام العملية بواسطة الكود",
+    "OR": "أو"
+  }
+
+
+}
+

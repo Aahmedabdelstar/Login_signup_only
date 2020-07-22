@@ -1,0 +1,270 @@
+{
+    "pageNames": {
+        "home": "Home",
+        "settings": "Settings"
+    },
+    "pages": {
+        "settings": {
+            "general": "General",
+            "language": "Language"
+        },
+        "home": {
+            "label_times": "You have pushed the button this many times:",
+            "welcome": "Welcome {{lastname}} {{name}}"
+        }
+    },
+    "Key": "English",
+
+    "SideMenuPage": {
+        "sideBasket":   "My Basket",
+        "sidePolitics": "Politics and Safety",
+        "sideContact" : "Contact Us",
+        "sideAboutCompany": "AboutCompany",
+        "changeLanguage": "Change Language",
+        "LogOut" : "LogOut",
+        "LogIn" : "LogIn",
+        "Myorder" : "My Orders"
+    },
+
+
+    "ContactUsPage": {
+        "title": "Contact Us",
+        "body": "Also you can contact with us By Social Media",
+        "address": "address : "
+    },
+    "PrivacyPolicyPage": {
+        "title": "Politices and privacy"
+    },
+
+    "WelcomePage": {
+        "title": "Welcome",
+        "SignUpButton": "Sign up",
+        "SignInButton": "Sign in"
+    },
+
+    "VerificationPage": {
+        "title": "Verification",
+        "body": "we have sent the verfication",
+        "PhoneCode": "code to your phone",
+        "hint": "Enter Verification Code",
+        "Button": "Send Registration Code"
+    },
+
+  "StorePage": {
+    "CategorySeeAllText": "See All",
+    "StoreHeaderlocation": "Visit Us",
+    "StoreHeaderSearchHint": "Search for Products"
+
+  },
+  "HomePage": {
+
+    "bottomNavigationMoor": " More Data",
+
+    "bottomNavigationStore": "Store",
+    "bottomNavigationCart": "My Cart",
+    "bottomNavigationOffers": "Offers",
+    "bottomNavigationFavourite": "Favourite",
+    "bottomNavigationProfile": "Profile"
+
+  },
+
+  "FavouritePage": {
+    "NoItemAdded": "No Favourite Items is added"
+  },
+  "MyBasketPage": {
+    "NoItemhasAdded": "Your Basket Is Empty"
+  },
+
+  "ProductWidgetPage": {
+    "ProductRateing": "Rate this product",
+    "ProductComment": "leave comment",
+    "ProductRateingText": " rate "
+  },
+
+  "ProductDetailstPage": {
+    "title": "Back to Category",
+    "ProductQuantity": "Quantity",
+    "AddToCartButton": "Add To Cart",
+    "SeeDetailsButton": "See Details",
+    "AlertDialogText": "Confirm adding Proudect to Cart",
+    "AlertDialogCancelButton": "Cancel",
+    "AlertDialogConfirmButton": "Confirm"
+  },
+
+  "ProductProfiletPage": {
+    "tabAllRating": "All Rating",
+    "tabAllMainInformation": "Main Information",
+        "MainInfoPage": {
+          "ProductName": "Product Name",
+          "ProductPrice": "Price",
+          "ProductQuantity": "Quantity",
+          "ProductDescription": "Description"
+        },
+        "AllRatingPage": {
+          "NoRatingText": "There's no rating for that product",
+          "NoCommentText": "No comment",
+          "thatNoRatingAlert": "Frist LogIn , Please"
+        }
+
+  },
+  "PhoneNumberConfirmationPage": {
+    "SmsCode": "Enter SMS Code",
+    "Done": "Done",
+    "LogoText": "Logo",
+    "PhoneAuthenticationText": "Phone Authentication",
+    "labelTextofNumberPhone": "Enter Phone Number Eg. +20**'",
+    "registrationButton": "Send Registration Code'",
+          "cardWidget": {
+            "phoneNumber": "Phone Number",
+            "registrationMessage": "The code will be sent in a text message"
+          }
+  },
+
+    "ResetPasswordPage":{
+    "title": "Reset",
+    "ResetMessageText": "A password reset link has been sent to",
+    "ResetMessageDialogButton": "Okay",
+    "ResetPasswordText": "Reset Password",
+    "ResetPasswordEmail": "Email",
+    "ResetMessageButton": "Reset",
+    "ResetMessageReturnText": "Return to Sign In"
+  },
+
+  "SignInPage":{
+    "DialogText": "An Error Occurred!",
+    "DialogButton": "Okay",
+    "DialogTextValidate": "Email or Password is empty",
+    "DialogEmailError": "Email is empty",
+    "title": "Welcome Back",
+    "EmailHint": "User Name",
+    "passwordHint": "Password",
+    "LogInButton": "Log In",
+    "ForgetPassword": "Forget Password",
+    "ORText": "OR",
+    "DonotHavaAccount": "Don't Have an account ?",
+    "DialogEmailAndPasswordValidate": "There are mistake in email or password. Please try again later."
+
+  },
+
+  "SignUPPage":{
+    "InvalidusernameText": "Invalid User Name",
+    "InvalidemailText": "Invalid email!",
+    "InvalidPasswordText": "Password is too short!",
+    "InvalidusernameText": "Invalid user name",
+
+    "usernamelabelText": "User Name",
+    "emaillabelText": "Email ID",
+    "PasswordlabelText": "Password",
+    "ConfirmPasswordValidate": "Not Match Password",
+    "Confirmpassword": "Confirm Password",
+    "LogInButton": "SIGN UP",
+    "haveAccount": "Have an Account? Sign In",
+    "DialogEmailAndPasswordValidate": "There are mistake in email or password. Please try again later.",
+
+    "PhoneNumber": "Phone Number",
+    "PhoneConfirmation": {
+      "ActivateAccount": "Activate Account",
+      "EditNumber": "Edit Number",
+      "MessagesShortly": "You_will_receive_verification_messages_shortly",
+      "CodeSent": "Verification_code_sent_to"
+    }
+  },
+
+
+
+  "WelcomePage": {
+    "title": "Welcome",
+    "SignUpButton": "Sign UP",
+    "SignInButton": "Sign IN"
+  },
+
+  "BasketPage": {
+    "NoItemText": "Basket is empty",
+    "MakeOrderButton": "make an order",
+    "minimumOrderLimit": "The minimum order limit is : 100 SAR"
+  },
+
+  "PurchasePage": {
+    "title": "purchase",
+    "giftCobon": "Your gift cobon",
+    "CobonHint": "  Enter your Cobon",
+    "CobonButton": "Active",
+    "beforeCouponText": "before coupon",
+    "TotalSalaryText": "Total Salary",
+    "AfterCobonText": "after cobon",
+    "DeliverToText": "Deliver To",
+    "TotalText": "Total",
+    "addedTaxes": "Includes value added taxes",
+    "ReviewYourOrderButton": "Review Your Order",
+    "PurcharseButton": "Purcharse",
+    "DialogTitle": "Your Order",
+    "DialogQuantity": "Quantity :  ",
+    "DialogButton": "CLOSE "
+
+  },
+  "PuchaseLocationPage": {
+    "title": "Location",
+    "HomeText": "Home",
+    "NameText": "Name  : ",
+    "AddressText": "Address : ",
+    "PhoneText": "Phone  : ",
+    "mapButton": "Add Order Location On Map",
+    "ContinueButton": "Continue",
+    "dailogForFirstTime": "You Must Choose Your Location On Map For Frist Time",
+    "dailogForSecondTime": "Donot Choose New Location ?\nYour Order will reach to last map location you have chosen",
+    "DelivaryDateText": "Delivary Date : ",
+    "DelivaryTimeText": "Delivary Time : ",
+    "DelivaryDateChoose": "You Must Choose Delivary Date !",
+    "DelivaryTimeChoose": "You Must Choose Delivary Time !",
+    "DelivaryTimeChooseFalse": "This period has become unavailable to receive any reques Now",
+    "DelivaryTimeChooseMaxFalse": "This period has become unavailable to receive any request\nWe have reached the max number of requests\nDuring this period",
+    "EgyptionNumberPhone": "We Donot Work in Egypt Now"
+  },
+
+
+  "ConfirmReciptPage": {
+    "title": "Confirm Order",
+    "OrderSummaryText": "OrderSummary",
+    "SubTotalText": "SubTotal",
+    "DeliveryChargeText": "Delivery Charge",
+    "TotalText": "Total",
+    "ValueAddedTaxText": "Value Added Tax",
+    "ReviewYourOrderButton": "Review Your Order",
+    "ConfirmButton": "Confirm"
+  },
+  "MapPage": {
+    "DialogBody":
+    "Map open in current device Locaion\nIf you want choose another Location\nMove marker and choose new location "
+
+  },
+  "ConfirmOrderPage": {
+    "followYourOrder": "Follow Your order from page\nYour order in Deliverd Stage",
+    "DelivaryQrCodeButton": "Delivary Qr Code",
+    "orderStatufrist": "Delivered",
+    "orderStatusecond": "Charged",
+    "orderStatuthird": "In progress",
+    "orderStatuDone": "Order done",
+    "confirmOrderCard": {
+        "OrderSummaryText": "Order Summary",
+        "SubTotalText": "SubTotal",
+        "DeliveryFreeText": "Free for Cash On Delivery",
+        "TotalText": "Total",
+        "ValueAddedTaxText": "Value Added Tax"
+    }
+  },
+
+  "AllOrderPage": {
+    "appbartitle": "Delivery Man",
+    "title": "My Order",
+    "client": "Client",
+    "order_complared_orNot": "No Complated Order"
+  },
+  "OrderQrCodePage": {
+    "title": "Delivery Process Confirmation",
+    "QRImage": "QR Image For Scan And\nConfirm the completion of the process",
+    "QRCode": "QR Code For Scan And\nConfirm the completion of the process",
+    "OR": "OR"
+  }
+
+
+}
